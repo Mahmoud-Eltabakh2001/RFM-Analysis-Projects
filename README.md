@@ -10,3 +10,6 @@
           > frequency (how often they make purchases)
           
           > monetary (the amount spent on purchases)
+
+![image](https://github.com/Mahmoud-Eltabakh2001/RFM-Analysis-using-Dash/assets/83386696/a5671112-d1cd-46ba-8af7-d8dafdad1183)
+
